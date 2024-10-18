@@ -1,0 +1,11 @@
+commit 7b239afb7737b9bb6812ed00ca51753c11c89d0c
+Author: DingDong039 <dingdong5039@gmail.com>
+Date:   Fri Oct 18 11:40:36 2024 +0700
+
+    Initial commit: Added function and unit tests
+
+commit aafd306dc4e039f1b1ab42cc575f067db3682493
+Author: DingDong039 <dingdong5039@gmail.com>
+Date:   Fri Oct 18 11:17:06 2024 +0700
+
+    Initial commit
